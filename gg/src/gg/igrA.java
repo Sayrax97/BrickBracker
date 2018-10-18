@@ -23,7 +23,7 @@ public class igrA extends JPanel implements KeyListener,ActionListener{
 	private int score=0;
 	public static int TotalBricks=21;
 	private Timer time;
-	private int zakasnjenje=10;
+	private int zakasnjenje=15;
 	private int PlayerX=310;
 	private int BallX=420;
 	private int BallY=310;
